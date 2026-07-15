@@ -1,0 +1,6 @@
+pygame
+scipy
+pynput
+colorama
+Pillow
+mouse
